@@ -12,7 +12,7 @@ The numerical data contained in this dataset are original and were computed by t
 
 Part of the geometric data ("shapes" or "polygons") contained in this dataset are a derivative of the original data obtained thrpugh the standard procedure from  the Laboratory of Geographical Information Systems in Urban and Regional Planning, in the NTUA School of Architecture. A significant amount of geometric computation and clean-up has been performed on the raw data in order to extract the shapes of the CityBlock Backyards, which were originally produced by the author.
 
-##Explanation of CityBlock Properties
+## Explanation of CityBlock Properties
 
 | Property | Meaning |
 |:--------:|:-------:|
