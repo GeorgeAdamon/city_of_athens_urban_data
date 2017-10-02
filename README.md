@@ -17,7 +17,7 @@ The Geographic Projection System is **GGRS87/Greek Grid (EPSG:2100)** . The corr
 ## Explanation of CityBlock Properties
 
 | Property | Meaning |
-|:--------:|:-------:|
+|:--------:|:-------|
 Area        | Total Area of the City Block
 AtriumCount | Number of joined backyards or "Akaliptoi"
 AtriumToBui | The ratio of the area covered by Backyards to the are covered by Buildings
