@@ -2,7 +2,7 @@
 ### A very very small tutorial
 
 ## Step 1: Layer > Add Layer > Add Vector Layer
-
+https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step1_Add_Vector_Layer.JPG
 ## Step 2: Pick the Desired Dataset
 
 ## Step 3: A Succesful Import Looks Like This
