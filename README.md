@@ -14,7 +14,7 @@ Part of the geometric data ("shapes" or "polygons") contained in this dataset ar
 
 The Geographic Projection System is **GGRS87/Greek Grid (EPSG:2100)** . The corresponding .prj files are included.
 
-#### [Short Tutorial for Classifying Data](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/How_To_Classify.md)
+### [Short Tutorial for Classifying Data](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/How_To_Classify.md)
 
 ## Explanation of CityBlock Properties
 
