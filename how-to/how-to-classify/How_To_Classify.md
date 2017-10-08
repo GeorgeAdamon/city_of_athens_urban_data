@@ -12,8 +12,8 @@
 ## Step 5: Choose the Style Tag & Pick the Graduated Mode
 ![Step 5](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step5_EditStyle.JPG)
 ## Step 6: Choose the Property by which to Classify
-![Step 6](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step6_Classify.JPG)
+![Step 6](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step6_Pick_Desired_Property.JPG)
 ## Step 7: Press Classify and Play with the Parameters/Colors
-![Step 7](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step7_Pick_Desired_Property.JPG)
+![Step 7](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step7_Classify.JPG)
 ## Step 8: A Succesful Classification Looks Like This
 ![Step 8](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step8_Succesful_Classification.JPG)
