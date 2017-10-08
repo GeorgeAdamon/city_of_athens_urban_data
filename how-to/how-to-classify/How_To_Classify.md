@@ -9,7 +9,7 @@
 ![Step 3](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step3_Succesful_Import.JPG)
 ## Step 4: Double-Click or Right-Click to Open Properties Window
 ![Step 4](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step4_EditProperties.JPG)
-## Step 5: Choose the Style Tag & Pick the Graduated Mode
+## Step 5: Choose the Style Tab & Pick the Graduated Mode
 ![Step 5](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step5_EditStyle.JPG)
 ## Step 6: Choose the Property by which to Classify
 ![Step 6](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/images/step6_Pick_Desired_Property.JPG)
