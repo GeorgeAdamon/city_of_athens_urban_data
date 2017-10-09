@@ -1,8 +1,9 @@
 # City of Athens Urban Data
 Processed GIS dataset of City Blocks and Backyards of the Municipality of Athens, Greece
 
-Author : Georgios Adamopoulos
-Original Raw Data:  NTUA School of Architecture, Laboratory of Geographical Information Systems in Urban and Regional Planning
+*Author* : Georgios Adamopoulos
+
+*Original Raw Data*:  NTUA School of Architecture, Laboratory of Geographical Information Systems in Urban and Regional Planning
 
 This dataset was originally produced as part of the NTUA School of Architecture Thesis Project **["KEMP: A Digital Platform for Participatory Design"](http://www.academia.edu/33401364)**  *(Adamopoulos, G., Pappas, P. and Aronidis, E. (2016). KEMP: A Digital Platform for Participatory Design. Master Thesis. National Technical University of Athens, School of Architecture.)* and proved to be a valuable tool for the analysis, filtering and classification of Athens' city blocks.
 
