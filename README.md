@@ -1,4 +1,4 @@
-# city_of_athens_urban_data
+# City of Athens Urban Data
 Processed GIS dataset of City Blocks and Backyards of the Municipality of Athens, Greece
 
 Author : Georgios Adamopoulos
