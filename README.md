@@ -24,7 +24,7 @@ Due to limitations of the .shp file format, some column names were unfortunately
 |:--------:|:-------|
 Area        | Total Area of the City Block
 AtriumCount | Number of joined backyards or "Akaliptoi"
-AtriumToBui | The ratio of the area covered by Backyards to the are covered by Buildings
+AtriumToBui | The ratio of the area covered by Backyards to the area covered by Buildings
 AtriumToTot | The ratio of the area covered by Backyards to the total CityBlock area
 BlockID     | The ID of the CityBlock
 BuildingCou | The number of buildings contained in the City Block
