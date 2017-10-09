@@ -18,6 +18,7 @@ The Geographic Projection System is **GGRS87/Greek Grid (EPSG:2100)** . The corr
 ### [Short Tutorial for Classifying Data](https://github.com/GeorgeAdamon/city_of_athens_urban_data/blob/master/how-to/how-to-classify/How_To_Classify.md)
 
 ## Explanation of CityBlock Properties
+Due to limitations of the .shp file format, some column names were unfortunately abbreviated. Let the following table clarify the meaning of each column name.
 
 | Property | Meaning |
 |:--------:|:-------|
